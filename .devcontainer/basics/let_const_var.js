@@ -20,4 +20,4 @@ console.log(age)
 
 console.log(roll)
 
-console.table([age,roll]) // in tabula form with columns of index and values
+console.table([age,roll]) // in tabular form with columns of index and values
